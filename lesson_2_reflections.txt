@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it? 
+
+A: We need to make sure the git has all the required items to perform the standard functions
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: Staging area is different as it acts like a place to mark our changes and tell the system that we are ready to add to the history. If needed it can be pushed to the central repository. The values are it is flexible, track record of the project, easy to find bugs and reset them 
