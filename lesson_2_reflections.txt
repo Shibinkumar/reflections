@@ -5,3 +5,30 @@ A: We need to make sure the git has all the required items to perform the standa
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 A: Staging area is different as it acts like a place to mark our changes and tell the system that we are ready to add to the history. If needed it can be pushed to the central repository. The values are it is flexible, track record of the project, easy to find bugs and reset them 
+ 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help? 
+
+A: If we are not sure to make the changes yet 
+ 
+How do the diagrams help you visualize the branch structure? 
+
+A: It makes it easier to compare between branches and find the commits included within 
+ 
+
+ 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do? 
+ 
+A: Merging 2 branches combines the commits from both the branches and makes it into a single one and helps in coverting the features or work done separately into a master branch, this doesn't delete the commits however deletes labels 
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually? 
+ 
+A: Auto merging reduces manual merging and helps in standard cases. However when required it automatically asks the user to resolve the conflict. Manual merging is usfu; when there are conflicts to the file and a decision need to be taken 
+ 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository? 
+ 
+A: To give us control over the update and changes to be made on the project 
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A: Forks are used when we need repositories which are available in Github. Whereas clones are either used to clone repositories locally or from Github. Branches can be done either locally or via Github within the same repository
