@@ -36,3 +36,11 @@ A: Forks are used when we need repositories which are available in Github. Where
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 A: It gives us a option to understand the latest copy of the project
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A: It would easier if the team worked in the same location and a single feature of the project. However the hard art is to combine everything together in a project.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A: Separate branch is required when we are adding some additional features or working on a future aspect of the project which will not be releases any time soon. Benefits would include detaching the branch when not required, pause the work on the current branch, share the ideas and get feedback from other members of the team
